@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/apache-commons.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/bson-3.9.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mongodb-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mongodb-driver-core-3.9.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/org.apache.commons.fileupload-1.2.2.LIFERAY-PATCHED-1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
